@@ -1,10 +1,10 @@
-package com.eazybytes.eazyschool;
+package com.kim.example18;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EazyschoolApplicationTests {
+class Example18ApplicationTests {
 
 	@Test
 	void contextLoads() {
