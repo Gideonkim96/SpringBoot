@@ -8,10 +8,7 @@ import org.springframework.web.context.annotation.ApplicationScope;
 import org.springframework.web.context.annotation.RequestScope;
 import org.springframework.web.context.annotation.SessionScope;
 
-/*
-@Slf4j, is a Lombok-provided annotation that will automatically generate an SLF4J
-Logger static property in the class at compilation time.
-* */
+
 @Slf4j
 @Service
 //@RequestScope
