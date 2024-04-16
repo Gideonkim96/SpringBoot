@@ -9,18 +9,25 @@
         <module name="example_34" />
         <module name="example_45" />
         <module name="example_35" />
+        <module name="example_46" />
         <module name="example_32" />
         <module name="example_43" />
         <module name="example_33" />
         <module name="example_44" />
         <module name="example_41" />
+        <module name="example_52" />
         <module name="example_31" />
         <module name="example_42" />
+        <module name="example_50" />
         <module name="example_40" />
+        <module name="example_51" />
         <module name="example_38" />
+        <module name="example_49" />
         <module name="example_39" />
         <module name="example_36" />
+        <module name="example_47" />
         <module name="example_37" />
+        <module name="example_48" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -68,6 +75,14 @@
       <module name="example_42" options="-parameters" />
       <module name="example_43" options="-parameters" />
       <module name="example_44" options="-parameters" />
+      <module name="example_45" options="-parameters" />
+      <module name="example_46" options="-parameters" />
+      <module name="example_47" options="-parameters" />
+      <module name="example_48" options="-parameters" />
+      <module name="example_49" options="-parameters" />
+      <module name="example_50" options="-parameters" />
+      <module name="example_51" options="-parameters" />
+      <module name="example_52" options="-parameters" />
     </option>
   </component>
 </project>
